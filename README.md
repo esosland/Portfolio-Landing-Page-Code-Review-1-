@@ -10,7 +10,7 @@
 
  * _Clone this repository to local device._
  * _Go into folder and open index.html to view the page in a web browser._
- * _View page on gh-pages at
+ * _Or view page on gh-pages at http://esosland.github.io/Portfolio-Landing-Page-Code-Review-1-/
 
 
  ##### _No currently known bugs._
